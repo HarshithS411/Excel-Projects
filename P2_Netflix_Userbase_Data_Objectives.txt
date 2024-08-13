@@ -1,0 +1,7 @@
+1. % of Subscription type
+2. KPI of total user 
+3. KPI of total earning
+4. Map of country of user
+5. %  of male or female user
+6. Age group total
+7. Which device customer are using  

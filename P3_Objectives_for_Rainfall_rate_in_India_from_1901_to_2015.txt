@@ -1,0 +1,4 @@
+1. 37 division all quarter rainfall rate from 1901 to 2015
+2. Annual rainfall rate of all division by decades
+3. Monthly rainfall rate of all division by decades
+4. Highest and lowest rainfall received in above years 

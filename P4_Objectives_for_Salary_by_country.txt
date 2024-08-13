@@ -1,0 +1,7 @@
+1. Education level by how many people
+2. Total men and women working in %
+3. Job title by age group
+4. Highest experience in job title
+5. Highest paying jobs
+6. no by Country
+7. no by race
